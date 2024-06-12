@@ -41,5 +41,5 @@ Thumbs.db
 
 # Build assets.
 select2.scss
-/assets/
+# /assets/
 /languages/
